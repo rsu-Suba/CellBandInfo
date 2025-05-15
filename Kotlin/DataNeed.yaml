@@ -1,0 +1,17 @@
+[CellInfoLte:{
+    mRegistered=YES
+    CellIdentityLte:{
+        mEarfcn=9410
+        mBands=[28]
+        mAlphaShort=44050
+    }
+},
+CellInfoLte:{
+    mRegistered=NO
+    CellIdentityLte:{
+        mEarfcn=1300
+        mBands=[3]
+        mAlphaShort=
+    }
+}
+]

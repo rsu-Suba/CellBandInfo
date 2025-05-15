@@ -1,0 +1,65 @@
+[CellInfoLte:{
+    mRegistered=YES
+    mTimeStamp=504451799708277ns
+    mCellConnectionStatus=0
+    CellIdentityLte:{
+        mCi=5*****04
+        mPci=248
+        mTac=4***8
+        mEarfcn=9410
+        mBands=[28]
+        mBandwidth=2147483647
+        mMcc=440
+        mMnc=50
+        mAlphaLong=44050
+        mAlphaShort=44050
+        mAdditionalPlmns={}
+        mCsgInfo=null
+    }
+    CellSignalStrengthLte:
+        rssi=-79
+        rsrp=-108
+        rsrq=-8
+        rssnr=7
+        cqiTableIndex=2147483647
+        cqi=2147483647
+        ta=2147483647
+        level=1
+        parametersUseForLevel=0
+        android.telephony.CellConfigLte :{
+            isEndcAvailable = false
+        }
+},
+CellInfoLte:{
+    mRegistered=NO
+    mTimeStamp=504451799708277ns
+    mCellConnectionStatus=0
+    CellIdentityLte:{
+        mCi=2147483647
+        mPci=253
+        mTac=2147483647
+        mEarfcn=1300
+        mBands=[3]
+        mBandwidth=2147483647
+        mMcc=null
+        mMnc=null
+        mAlphaLong=
+        mAlphaShort=
+        mAdditionalPlmns={}
+        mCsgInfo=null
+    }
+    CellSignalStrengthLte:
+        rssi=-99
+        rsrp=-123
+        rsrq=-14
+        rssnr=2147483647
+        cqiTableIndex=2147483647
+        cqi=2147483647
+        ta=2147483647
+        level=0
+        parametersUseForLevel=0
+        android.telephony.CellConfigLte :{
+            isEndcAvailable = false
+        }
+}
+]
